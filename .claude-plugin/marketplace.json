@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills",
+  "description": "Fassty's skill library for Claude",
+  "owner": { "name": "Fassty" },
+  "plugins": [
+    {
+      "name": "product-craft",
+      "source": "./plugins/product-craft",
+      "description": "Skills for deciding what to build: discovery, positioning, specs, MVP planning.",
+      "version": "0.1.0",
+      "category": "product"
+    }
+  ]
+}
